@@ -12,9 +12,9 @@ namespace Sistema_Produtos.Classes
 
         public DateTime DataCadastro { get; set; }
 
-        List<Marca> Marcas{ get; set; }
+        List<Marca> Marcas =new List<Marca>();
 
-        public void CadastrarMarca(){
+        public Marca CadastrarMarca(){
 
             Marca novaMarca = new Marca();
             Console.WriteLine("Digite o código da marca :");
@@ -27,6 +27,8 @@ namespace Sistema_Produtos.Classes
             DataCadastro = DateTime.UtcNow;
 
             Marcas.Add(novaMarca);
+
+            return novaMarca;
         
         }
 

@@ -1,0 +1,13 @@
+C:\Users\fic\Desktop\Andre\Sistema_Produtos\bin\Debug\netcoreapp3.1\Sistema_Produtos.exe
+C:\Users\fic\Desktop\Andre\Sistema_Produtos\bin\Debug\netcoreapp3.1\Sistema_Produtos.deps.json
+C:\Users\fic\Desktop\Andre\Sistema_Produtos\bin\Debug\netcoreapp3.1\Sistema_Produtos.runtimeconfig.json
+C:\Users\fic\Desktop\Andre\Sistema_Produtos\bin\Debug\netcoreapp3.1\Sistema_Produtos.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Andre\Sistema_Produtos\bin\Debug\netcoreapp3.1\Sistema_Produtos.dll
+C:\Users\fic\Desktop\Andre\Sistema_Produtos\bin\Debug\netcoreapp3.1\Sistema_Produtos.pdb
+C:\Users\fic\Desktop\Andre\Sistema_Produtos\obj\Debug\netcoreapp3.1\Sistema_Produtos.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Andre\Sistema_Produtos\obj\Debug\netcoreapp3.1\Sistema_Produtos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Andre\Sistema_Produtos\obj\Debug\netcoreapp3.1\Sistema_Produtos.AssemblyInfo.cs
+C:\Users\fic\Desktop\Andre\Sistema_Produtos\obj\Debug\netcoreapp3.1\Sistema_Produtos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Andre\Sistema_Produtos\obj\Debug\netcoreapp3.1\Sistema_Produtos.dll
+C:\Users\fic\Desktop\Andre\Sistema_Produtos\obj\Debug\netcoreapp3.1\Sistema_Produtos.pdb
+C:\Users\fic\Desktop\Andre\Sistema_Produtos\obj\Debug\netcoreapp3.1\Sistema_Produtos.genruntimeconfig.cache
